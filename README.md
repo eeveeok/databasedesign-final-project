@@ -7,3 +7,6 @@ github에 올라온 "데베설_테이블_및_임시데이터.sql" 쿼리 실행<
 정상적으로 테이블과 임시 데이터가 생성되었으면</br>
 ReviewAPIServer 프로젝트의 DBManager.cs에서 Port, Database, Uid, pwd를 사용자에 따라 맞춰줘야 함.</br>
 ReviewAPIServer 프로젝트를 먼저 실행시킨 후, RestaurantReview 프로젝트 실행.
+
+# ERD</br>
+<img width="1156" height="710" alt="image" src="https://github.com/user-attachments/assets/3a252678-684d-45af-8eb4-fefc4119082a" />
